@@ -1,4 +1,3 @@
-// Build full UI using JavaScript (less HTML)
 const app = document.getElementById("app");
 
 const container = document.createElement("div");
